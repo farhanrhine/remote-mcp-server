@@ -1,3 +1,4 @@
 expenses.db
 .vscode/
-proxy.py
+__pycache__/
+*.pyc
