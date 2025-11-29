@@ -2,3 +2,4 @@ expenses.db
 .vscode/
 __pycache__/
 *.pyc
+fastapi-local-server
